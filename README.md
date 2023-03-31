@@ -5,9 +5,9 @@ Test Accuracy: 91.16%
 
 **Self-use instructions**:
 * preparing:
-> Download 'data_10.json' file.
+> Download [data_10.json](https://drive.google.com/file/d/1N7soIwQJ9eOEhBn5F3FjcFtajWT4yGfk/view?usp=sharing) file.
 
-> Download 'BestModel_weight_set.h5' file.
+> Download [BestModel_weight_set.h5](https://drive.google.com/file/d/1-H3Vt_FVLbRV4HZzJ1QmUUZdV5lF8eta/view?usp=sharing) file.
 
 >	Change in code 'DATA_PATH' to your desired file destination.
 
