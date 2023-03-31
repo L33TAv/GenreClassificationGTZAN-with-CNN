@@ -24,6 +24,7 @@ Test Accuracy: 91.16%
 
 > Change in code 'DATASET_PATH' to the destination of your dataset.
 
+> Change 'DATA_PATH' to './data_10.json'
 
 This project was made by Liav Avitan, April 2023.
 
