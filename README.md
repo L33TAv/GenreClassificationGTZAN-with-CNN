@@ -10,11 +10,18 @@ Test Accuracy: 91.16%
 
 >	Change in code 'DATA_PATH' to your desired file destination.
 
-> Change 'model.save_weights' and 'model.load_weights' to desired destination.
+> Change in code 'model.save_weights' and 'model.load_weights' to desired destination.
 * training
 > Train the model or use directly trained model(in case of that, in 'Model preparation and training', run first 3 and last code sections only).
 
 > Test, Visualize the Classification results, and use web app made by [Gradio](https://gradio.app/) library.
+
+- there is no need to use 'preprocessing' section, otherwise:
+
+* optional(by using preprocessing):
+> download [GTZAN dataset](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification).
+
+> Change in code 'DATASET_PATH' to the destination of your dataset.
 
 
 This project was made by Liav Avitan, April 2023.
