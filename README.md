@@ -1,2 +1,25 @@
-# GenreClassificationGTZAN-with-CNN
+# CNN Genre Classification
 Genre Classification project with GTZAN dataset, using CNN.
+Test Accuracy: 91.16%
+
+**Self-use instructions**:
+* preparing:
+> Download 'data_10.json' file.
+
+> Download 'BestModel_weight_set.h5' file.
+
+>	Change in code 'DATA_PATH' to your desired file destination.
+
+> Change 'model.save_weights' and 'model.load_weights' to desired destination.
+* training
+> Train the model or use directly trained model(in case of that, in 'Model preparation and training', run first 3 and last code sections only).
+
+> Test, Visualize the Classification results, and use web app made by [Gradio](https://gradio.app/) library.
+
+
+This project was made by Liav Avitan, April 2023.
+
+Credit:
+VRUSHALI. (2021).   [Music Genre Classification Using CNN](https://www.kaggle.com/code/vrushaliingle/music-genre-classification-using-cnn/notebook).
+
+
