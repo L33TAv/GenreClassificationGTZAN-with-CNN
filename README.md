@@ -12,7 +12,7 @@ Test Accuracy: 91.16%
 >	Change in code 'DATA_PATH' to your desired file destination.
 
 > Change in code 'model.save_weights' and 'model.load_weights' to desired destination.
-* training
+* training:
 > Train the model or use directly trained model(in case of that, in 'Model preparation and training', run first 3 and last code sections only).
 
 > Test, Visualize the Classification results, and use web app made by [Gradio](https://gradio.app/) library.
