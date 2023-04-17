@@ -1,7 +1,7 @@
 # CNN Genre Classification
 Genre Classification project with GTZAN dataset, using CNN.
 
-Test Accuracy: 91.16%
+Test Accuracy: 91%
 
 **Self-use instructions**:
 * preparing:
